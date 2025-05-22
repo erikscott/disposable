@@ -1,1 +1,4 @@
 # disposable project
+
+*
+
